@@ -1,7 +1,7 @@
 
 ## Description
 
-seedtag backend test
+ backend test
 
 ## Installation
 
